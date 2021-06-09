@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tweather</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="standard_deviation">Standard Deviation</string>
+    <string name="fetch">Fetch</string>
+</resources>
